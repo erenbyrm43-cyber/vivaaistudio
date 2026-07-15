@@ -1,0 +1,5 @@
+git clone viva-ai-studio.bundle viva-ai-studio
+cd viva-ai-studio
+git remote add origin https://github.com/erenbyrm43-cyber/vivaaistudio.git
+git branch -M main
+git push --force -u origin main
